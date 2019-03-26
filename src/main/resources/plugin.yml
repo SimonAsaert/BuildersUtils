@@ -1,0 +1,14 @@
+name: Velara Builders Utils
+main: tld.sima.buildersutils.Main
+version: 0.1
+author: Simon A
+api-version: 1.13
+description: A plugin that adds a few small functional bits for builders
+commands:
+  nightvision:
+    description: Toggle nightvision for player
+    aliases: [nv]
+    usage: /nightvision
+    permission: buildersutils.nv
+    permission-message: You don't have the buildersutils.nv permission.
+    
