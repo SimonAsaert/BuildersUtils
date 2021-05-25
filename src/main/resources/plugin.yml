@@ -1,4 +1,4 @@
-name: Velara Builders Utils
+name: VelaraBuildersUtils
 main: tld.sima.buildersutils.Main
 version: 0.1
 author: Simon A
